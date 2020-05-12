@@ -1,0 +1,11 @@
+{
+  "name": "tweety",
+  "version": "1.0.0",
+  "description": "Una aplicacion cool de Twitter",
+  "main": "Tweety.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Guillermo y Gaston",
+  "license": "ISC"
+}
